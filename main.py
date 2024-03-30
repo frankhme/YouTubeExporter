@@ -6,7 +6,7 @@ import re
 from googleapiclient.discovery import build
 
 # Define API key
-API_KEY = 'AIzaSyAY3fOAWK949jRYeZiGs28tVB4tHLp1jNg'
+API_KEY = '#your API key'
 
 #Function 1: define a function to retrieve the playlist ID from a public YouTube URL:
 def get_playlist_id(playlist_url):
